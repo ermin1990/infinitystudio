@@ -1,0 +1,41 @@
+[{
+        "Paket": "Mini",
+        "Cijena": 550,
+        "Opis": "Angažman fotografa:\nNa ceremoniji vjenčanja (i vjersko vjenčanje)\nU restoranu fotografisanje sa gostima \nPhoto session na bilo kojoj lokaciji (na dan vjenčanja)\nPaket uključuje 1 USB sa fotografijama",
+        "Uključeno": "Paket uključuje 1 USB sa fotografijama",
+        "Dostava": 28,
+        "Dodatni opis": null
+    },
+    {
+        "Paket": "Light",
+        "Cijena": 650,
+        "Opis": "Angažman fotografa na ceremoniji vjenčanja\ni u restoranu do 22:00h\nPhoto session na bilo kojoj lokaciji \n(na dan vjenčanja)\n",
+        "Uključeno": "Paket uključuje 1 USB sa fotografijama",
+        "Dostava": 28,
+        "Dodatni opis": null
+    },
+    {
+        "Paket": "Classic",
+        "Cijena": 850,
+        "Opis": "Cjelodnevni angažman fotografa\nPhoto session na bilo kojoj lokaciji \n(na dan vjenčanja)\n",
+        "Uključeno": "Wedding Box sa 20 izrađenih fotografija\r\n1 USB sa obrađenim fotografijama fotografijama",
+        "Dostava": 28,
+        "Dodatni opis": null
+    },
+    {
+        "Paket": "Full",
+        "Cijena": 1750,
+        "Opis": "Cjelodnevni angažman fotografa i kamermana\nPhoto session na bilo kojoj lokaciji \n(na dan vjenčanja)\n\n",
+        "Uključeno": "1 USB sa fotografijama i videom\nWedding Box",
+        "Dostava": 28,
+        "Dodatni opis": null
+    },
+    {
+        "Paket": "Posebne namjene",
+        "Cijena": 80,
+        "Opis": "Angažman fotografa 1h\nPhoto session na bilo kojoj lokaciji \nFotografije dostavljamo putem \nWetrasnfer/Smash",
+        "Uključeno": null,
+        "Dostava": 5,
+        "Dodatni opis": "Rođendan/Matura/Shooting"
+    }
+]
